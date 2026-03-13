@@ -180,5 +180,11 @@ Validasi Error
 <img width="1919" height="958" alt="Screenshot 2026-03-13 164256" src="https://github.com/user-attachments/assets/b5224090-4693-4900-8169-32e9c4632585" />
 
 
+Database MySql
+<img width="1919" height="752" alt="image" src="https://github.com/user-attachments/assets/dcfc09ae-ab32-412f-b204-d4ae8c9fae93" />
 
 
+# Tugas Praktikum: CRUD Manajemen KTP
+Nama: Mariska Esa Purnomo  
+NIM: 20230140167 
+Repositori: Tugas_CRUD_20230140167
